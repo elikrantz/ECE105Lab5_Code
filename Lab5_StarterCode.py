@@ -6,6 +6,9 @@ import matplotlib.pyplot as plt
 Eli Krantz
 14695396
 
+CODE PEER-REVIEWED BY: Gavin McAfee
+Comments: Everything looks good and runs well! Good job!
+
 Questions:
   a) for 1000 and 1 million the longest sequence starting n was not the same as
       the highest peak starting n.
