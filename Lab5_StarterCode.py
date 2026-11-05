@@ -197,4 +197,4 @@ if __name__ == "__main__":
         dists[n_max] = values, pmf, cdf
         print(f"{n_max:>9,} {sum(data) / n_max:7.1f} {median(values, cdf):7}")
 
-    plot_pmf_cdf(dists, "Lab5_Code/Lab5_Collatz.pdf")
+    plot_pmf_cdf(dists, "Lab5_Collatz.pdf")
